@@ -17,7 +17,7 @@ VAPOR is a Python-based tool for portfolio risk analysis and management. It impl
 
 1. Clone this repository:
 ```
-git clone git@github.com:jcogh/vapor.git
+git clone https://github.com/anandpanda3/vapor-VaR-calculator.git
 cd vapor
 ```
 
